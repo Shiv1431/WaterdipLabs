@@ -1,0 +1,47 @@
+.charts {
+    margin: 20px 0;
+}
+
+.chart-title {
+    text-align: center;
+    color: #000000;
+    margin: 20px 0;
+}
+
+.apexcharts-canvas {
+    background: #333;
+}
+
+.apexcharts-tooltip {
+    font-size: 12px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.apexcharts-datalabels {
+    font-size: 12px;
+    color: #fff;
+}
+
+.apexcharts-yaxis-title {
+    color: #fff;
+}
+
+.apexcharts-xaxis-labels {
+    color: #fff;
+}
+
+.apexcharts-gridline {
+    stroke: rgba(255, 255, 255, 0.1);
+}
+
+.apexcharts-legend {
+    font-size: 12px;
+    color: #fff;
+}
+
+.apexcharts-title {
+    color: #fff;
+}
